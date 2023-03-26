@@ -1,0 +1,15 @@
+.idea/
+
+*.iml
+
+target/
+out/
+
+build/
+bin/
+.classpath
+.project
+.settings
+
+
+notes.txt
